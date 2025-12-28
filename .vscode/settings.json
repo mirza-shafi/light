@@ -1,0 +1,21 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.espIdfPath": "/Users/mirzashafi/esp/v5.5.1/esp-idf",
+  "idf.toolsPath": "/Users/mirzashafi/.espressif",
+  "idf.pythonInstallPath": "/opt/homebrew/opt/python@3.14/Frameworks/Python.framework/Versions/3.14/bin/python3",
+  "idf.openOcdConfigs": [
+    "board/esp32c3-builtin.cfg"
+  ],
+  "idf.customExtraVars": {
+    "ESP_MATTER_PATH": "/Users/mirzashafi/esp/esp-matter",
+    "IDF_TARGET": "esp32c3"
+  },
+  "clangd.path": "/Users/mirzashafi/.espressif/tools/esp-clang/esp-19.1.2_20250312/esp-clang/bin/clangd",
+  "clangd.arguments": [
+    "--background-index",
+    "--query-driver=/Users/mirzashafi/.espressif/tools/riscv32-esp-elf/esp-14.2.0_20241119/riscv32-esp-elf/bin/riscv32-esp-elf-gcc",
+    "--compile-commands-dir=/Users/mirzashafi/esp/light/build"
+  ],
+  "idf.port": "/dev/tty.usbmodem101",
+  "idf.flashType": "UART"
+}

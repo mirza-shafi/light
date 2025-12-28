@@ -1,0 +1,2 @@
+source /Users/mirzashafi/esp/light/build/bootloader/gdbinit/symbols
+source /Users/mirzashafi/esp/light/build/bootloader/gdbinit/connect
